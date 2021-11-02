@@ -1,0 +1,1 @@
+# Simple-Triangle-pattern-Program-using-bash-script-code
